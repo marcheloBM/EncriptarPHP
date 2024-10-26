@@ -1,2 +1,2 @@
 # EncriptarPHP
-Encriptar en PHP (MD5,SHA1,HASH,CRYPT,BASE64_ENCODE)
+Encriptar en java (MD5,SHA1,HASH,CRYPT,BASE64_ENCODE)
